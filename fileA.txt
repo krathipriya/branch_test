@@ -1,1 +1,2 @@
 FeatureA commit
+Feature B addition through branch featureB
