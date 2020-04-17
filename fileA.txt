@@ -7,3 +7,4 @@ Tracking - addition of line
 To fetch and Pull - code addition
 
 Testing merge commit - local
+Pull using merge commit
